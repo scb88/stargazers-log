@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octo-landing",
+    "description": "A polished landing page template for software products.",
+    "language": "HTML",
+    "stargazers_count": 284,
+    "html_url": "https://github.com/octo-org/octo-landing"
+  },
+  {
+    "name": "pixel-palette",
+    "description": "Color exploration tools for designers and developers.",
+    "language": "JavaScript",
+    "stargazers_count": 142,
+    "html_url": "https://github.com/octo-org/pixel-palette"
+  },
+  {
+    "name": "quiet-notes",
+    "description": "A lightweight note-taking app with instant search.",
+    "language": "TypeScript",
+    "stargazers_count": 97,
+    "html_url": "https://github.com/octo-org/quiet-notes"
+  }
+]
